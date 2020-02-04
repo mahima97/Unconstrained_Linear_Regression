@@ -7,8 +7,9 @@ Flask basics for general purpose use in a website.
 - Example:
 ```
 {
-	"fname":["train.csv"],
-	"target":["SalePrice"]
+	"fname":"train.csv",
+	"target":"SalePrice"
 }
+
 ```
 
